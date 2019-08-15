@@ -1,8 +1,8 @@
 name: swipe_button
-description: A new Flutter package project.
+description: A new Flutter package project, a swipable Button ("slide to unlock" style).
 version: 0.0.1
-author:
-homepage:
+author: Rafik Belkadi<rafik.belkadi.dz@viacesi.fr>
+homepage: https://github.com/Rafik-Belkadi/swipeButton
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
